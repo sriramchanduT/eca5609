@@ -37,4 +37,4 @@ grid on
 ...
 ```
 ## output 
-![output](exp 4.1.png)
+![output](obj1.png) 
