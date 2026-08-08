@@ -1,6 +1,6 @@
 # Exp 4.1
 ## code
-~~~matlab
+```matlab
 clc; clear; close all;
 % System parameters
 bandwidth = 10e6; % 10 MHz
@@ -35,6 +35,6 @@ xlabel('User Index')
 ylabel('Utilization (%)')
 grid on
 ...
-~~~
+```
 ## output 
 ![output](exp 4.1.png)
