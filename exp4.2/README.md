@@ -1,5 +1,4 @@
 
-<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/55b73d83-a16d-4ffd-b917-549d43c540a4" />
 # Exp 4.2
 ## code
 ```matlab
