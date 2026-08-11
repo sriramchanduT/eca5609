@@ -1,3 +1,6 @@
+<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/9529df06-eb6b-4c17-bf32-1afa7a094387" />
+<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/ab7280c8-091f-47e1-98c1-da680e50a16b" />
+<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/55b73d83-a16d-4ffd-b917-549d43c540a4" />
 # Exp 4.2
 ## code
 ```matlab
