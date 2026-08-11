@@ -27,9 +27,8 @@ plot(users, util, '-s', 'LineWidth', 2)
 title('OFDMA Resource Block Utilization (%)')
 xlabel('User Index')
 ylabel('Utilization (%)')
-grid on<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/2b6826d3-5970-4368-8bfd-04fe9b6759d0" />
-
 ...
 ```
 ## output 
 ![output](obj2.png) 
+<img width="1235" height="722" alt="obj2" src="https://github.com/user-attachments/assets/d2de75e7-c0ea-411e-9b27-f5d0dd4f8f8a" />
